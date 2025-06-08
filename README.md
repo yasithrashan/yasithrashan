@@ -1,4 +1,4 @@
-# Yasith Rashan
+# 👨‍💻 Yasith Rashan — Architecting Code, Engineering Impact
 
 ## About Me
 
