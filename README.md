@@ -1,167 +1,168 @@
 <div align="center">
 
-# 🚀 Yasith Rashan
-### 💻 Full Stack Developer | 🎓 Computer Science Student
+# 👋 Yasith Rashan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Always+Learning+New+Tech;Building+Innovative+Solutions" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+University+of+Westminster;Full+Stack+Developer+%7C+Software+Engineer;Building+innovative+solutions+with+modern+tech;Always+learning%2C+always+building%2C+always+improving" alt="Typing Animation" />
+</p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/yasith-rashan-a44b54295">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.yasithrashan.online/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:yasith.20222071@iit.ac.lk">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/yxsiya">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-### 🌐 **Connect with me:**
-
-<a href="https://linkedin.com/in/yasith-rashan-a44b54295" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/yxsiya" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.yasithrashan.online/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:yasith.20222071@iit.ac.lk" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-</a>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-## 🔥 **About Me**
+## 🚀 About Me
 
-```typescript
-const yasith = {
+```javascript
+const yasithRashan = {
+    title: "Full Stack Developer",
     education: "Computer Science @ University of Westminster",
     specialization: "Software Engineering",
-    currentFocus: ["Full Stack Development", "Modern Web Technologies"],
-    passion: "Building innovative solutions that solve real-world problems",
-    expertise: ["Frontend", "Backend", "Database Design"],
-    mindset: "Always learning, always building, always improving"
+    location: "Sri Lanka 🇱🇰",
+    
+    currentlyLearning: [
+        "Advanced React Patterns",
+        "Microservices Architecture", 
+        "Cloud Technologies"
+    ],
+    
+    workingOn: [
+        "Full Stack Web Applications",
+        "Open Source Contributions",
+        "Personal Portfolio Projects"
+    ],
+    
+    philosophy: "Clean code, continuous learning, and building solutions that matter"
 };
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### **💻 Programming Languages**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" title="PHP" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
+</p>
 
-### **⚙️ Frameworks & Libraries**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" title="React" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="Express" title="Express.js" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring" title="Spring Boot" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" title="Bootstrap" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind" title="Tailwind CSS" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" title="Pandas" />
+### Backend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,python,php" />
+</p>
 
-### **🗄️ Databases**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" title="MongoDB" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="45" alt="Firebase" title="Firebase" />
+### Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
 
-### **🔧 Tools & Technologies**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="Kubernetes" title="Kubernetes" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" title="Figma" />
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,figma,vscode" />
+</p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YasithRashan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasithRashan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasithRashan&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasithRashan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
 </div>
 
----
-
-## 🔥 **GitHub Activity**
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasithRashan&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasithRashan&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 **Achievement Showcase**
+## 🏆 GitHub Achievements
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YasithRashan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" height="150" alt="trophy graph" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=YasithRashan&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 **Contribution Streak**
+## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YasithRashan&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasithRashan&custom_title=Yasith's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=3B82F6&area_color=3B82F6&title_color=3B82F6&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+## 🎯 Current Focus
 
-### 💭 **Quote of the Day**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+```typescript
+interface CurrentGoals {
+  learning: string[];
+  building: string[];
+  exploring: string[];
+}
 
----
-
-### 🎯 **Current Goals**
-```javascript
-const goals2024 = {
-    learning: ["Advanced React Patterns", "Microservices", "Cloud Architecture"],
-    building: ["Open Source Contributions", "Full Stack Projects"],
-    improving: ["Code Quality", "System Design", "Problem Solving"]
+const goals2024: CurrentGoals = {
+  learning: [
+    "Advanced System Design",
+    "Cloud Architecture (AWS/Azure)",
+    "DevOps & CI/CD Pipelines"
+  ],
+  
+  building: [
+    "Scalable Web Applications", 
+    "Open Source Projects",
+    "Personal Brand & Portfolio"
+  ],
+  
+  exploring: [
+    "AI/ML Integration",
+    "Blockchain Technology",
+    "Mobile Development"
+  ]
 };
 ```
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 Philosophy
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### ⚡ Fun Facts About Me
+
+- 🔭 I'm currently working on **Full Stack Web Applications**
+- 🌱 I'm currently learning **Advanced React & System Design**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, and Database Design**
+- ⚡ Fun fact: **I debug with console.log and I'm not ashamed of it!**
+
 ---
 
-### ✨ **"Code is like humor. When you have to explain it, it's bad."** ✨
+<img src="https://komarev.com/ghpvc/?username=YasithRashan&style=for-the-badge&color=3B82F6" alt="Profile Views"/>
 
-<img src="https://komarev.com/ghpvc/?username=YasithRashan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+**✨ "Code is poetry written in logic" ✨**
 
 </div>
