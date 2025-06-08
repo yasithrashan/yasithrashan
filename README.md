@@ -75,28 +75,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasithRashan&custom_title=Yasith's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎯 Current Goals
-
-<div align="center">
-
-**🌱 Learning**
-- Advanced System Design
-- Cloud Architecture (AWS/Azure)
-- DevOps & CI/CD Pipelines
-- Microservices Architecture
-
-**🚀 Building**
-- Scalable Web Applications
-- Open Source Projects
-- Personal Brand & Portfolio
-
-**🔍 Exploring**
-- AI/ML Integration
-- Blockchain Technology
-- Mobile Development
-- Web3 Technologies
-
-</div>
 
 ## 💭 Philosophy
 
