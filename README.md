@@ -7,7 +7,6 @@
 Currently learning and building scalable applications with modern technologies.
 
 ## 📫 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/yasith-rashan-a44b54295" target="_blank">
     <img alt="LinkedIn" height="40" src="https://cdn.simpleicons.org/linkedin/0077B5?style=for-the-badge&logoColor=white" />
