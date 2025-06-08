@@ -107,7 +107,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YasithRashan&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="Profile Views" />
   
   <h3>🚀 "Crafting elegant solutions through clean code" 🚀</h3>
   
