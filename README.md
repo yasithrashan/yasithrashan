@@ -6,25 +6,26 @@
 
 Currently learning and building scalable applications with modern technologies.
 
-## Connect With Me
+## 📫 Connect With Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/yasith-rashan-a44b54295" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasith-rashan-a44b54295" target="_blank">
+    <img alt="LinkedIn" height="40" src="https://cdn.simpleicons.org/linkedin/0077B5?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://www.yasithrashan.online/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+    <img alt="Portfolio" height="40" src="https://cdn.simpleicons.org/internetarchive/FF5722?style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:yasith.20222071@iit.ac.lk" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img alt="Gmail" height="40" src="https://cdn.simpleicons.org/gmail/D14836?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://instagram.com/yxsiya" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img alt="Instagram" height="40" src="https://cdn.simpleicons.org/instagram/E4405F?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://github.com/YasithRashan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img alt="GitHub" height="40" src="https://cdn.simpleicons.org/github/181717?style=for-the-badge&logoColor=white" />
   </a>
-</div>
+</p>
+
 
 ## Tech Stack
 
