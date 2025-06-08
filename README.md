@@ -1,8 +1,4 @@
-# 🚀 Yasith Rashan
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%92%BB+Software+Engineer;%F0%9F%8E%93+Computer+Science+Student;%E2%9A%A1+Building+Digital+Solutions;%F0%9F%8C%9F+Always+Learning+%26+Growing" alt="Typing SVG" />
-</div>
+# Yasith Rashan
 
 ## About Me
 
