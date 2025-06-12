@@ -32,7 +32,7 @@ Currently learning and building scalable applications with modern technologies.
 
 </div>
 
---
+---
 
 <div align="center">
   
