@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a Computer Science student at the University of Westminster, specializing in Software Engineering. Passionate about creating innovative solutions using modern technologies, I have experience with Java, React, Node.js, and Spring Boot. My expertise spans both front-end and back-end development, and I'm committed to building impactful applications that solve real-world problems.
+I'm a Computer Science student at the University of Westminster, specializing in Software Engineering. Passionate about creating innovative solutions using modern technologies, I'm committed to building impactful applications that solve real-world problems. Currently seeking opportunities as a Software Engineering intern to apply my skills and continue expanding my technical knowledge.
 
 ## 🛠 Tech Stack
 
