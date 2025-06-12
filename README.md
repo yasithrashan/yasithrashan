@@ -1,83 +1,33 @@
-# Yasith Rashan.
+# Yasith Rahan
 
-<div align="center">
-
-```typescript
-interface Developer {
-  readonly name: "yasith";
-  readonly location: "colombo, lk";
-  readonly role: "software engineer";
-  readonly education: "cs @ westminster";
-}
-
-const yasith: Developer = {
-  name: "yasith",
-  location: "colombo, lk", 
-  role: "software engineer",
-  education: "cs @ westminster"
-} as const;
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-**currently architecting** distributed systems • **learning** kubernetes & microservices • **building** with react, node, python
-
-</div>
+**Software Engineering Intern** • Crafting digital experiences
 
 ---
 
-<br>
+## Currently
 
-<div align="center">
+Building meaningful software solutions and exploring the intersection of code and creativity. Focused on writing clean, efficient code that solves real problems.
 
-### recent commits to life
+## Philosophy
 
-</div>
-
-<br>
-
-```diff
-+ shipped production-ready web applications
-+ contributed to open source ecosystems  
-+ explored cloud-native architecture patterns
-+ mentored junior developers in clean code practices
+```javascript
+const approach = {
+  write: 'code that tells a story',
+  build: 'products that matter',
+  solve: 'problems worth solving'
+};
 ```
 
-<br>
+## Recent Focus
 
-<div align="center">
+- **Backend Systems** → Designing scalable architectures
+- **Problem Solving** → Turning complex challenges into elegant solutions  
+- **Continuous Learning** → Always evolving, always improving
 
-### tech preferences
+## Connect
 
-**frontend** → typescript, react, next.js  
-**backend** → node.js, python, go  
-**cloud** → aws, docker, kubernetes  
-**database** → postgresql, mongodb, redis  
-
-</div>
-
-<br>
-
-<div align="center">
+[Email](mailto:yasithrahan@example.com) • [LinkedIn](https://linkedin.com/in/yasithrahan) • [Portfolio](https://yasithrahan.online)
 
 ---
 
-**let's build something together**
-
-[email](mailto:your.email@example.com) × [linkedin](https://linkedin.com/in/yourprofile) × [github](https://github.com/yourusername)
-
-</div>
-
-<br>
-
-<div align="center">
-
-```bash
-$ git commit -m "always learning, always building"
-```
-
-</div>
+*"The best code is not just functional—it's thoughtful."*
