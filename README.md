@@ -38,6 +38,6 @@ Currently learning and building scalable applications with modern technologies.
   
 ## 🚀 "Building the future, one line of code at a time" 🚀
 
-### 💡 Open to collaboration and exciting opportunities! 💡
+💡 Open to collaboration and exciting opportunities! 💡
 
 </div>
