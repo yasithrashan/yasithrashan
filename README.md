@@ -6,8 +6,6 @@
 
 Currently learning and building scalable applications with modern technologies.
 
----
-
 ## 🚀 Tech Stack
 
 <div align="center">
