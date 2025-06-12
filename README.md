@@ -1,24 +1,83 @@
-# yasith
+# Yasith Rashan.
 
+<div align="center">
+
+```typescript
+interface Developer {
+  readonly name: "yasith";
+  readonly location: "colombo, lk";
+  readonly role: "software engineer";
+  readonly education: "cs @ westminster";
+}
+
+const yasith: Developer = {
+  name: "yasith",
+  location: "colombo, lk", 
+  role: "software engineer",
+  education: "cs @ westminster"
+} as const;
 ```
-software engineer in training
-cs @ westminster • sri lanka
+
+</div>
+
+<br>
+
+<div align="center">
+
+**currently architecting** distributed systems • **learning** kubernetes & microservices • **building** with react, node, python
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+### recent commits to life
+
+</div>
+
+<br>
+
+```diff
++ shipped production-ready web applications
++ contributed to open source ecosystems  
++ explored cloud-native architecture patterns
++ mentored junior developers in clean code practices
 ```
 
-## stack
-typescript, react, node.js, python  
-docker, mongodb, aws  
-currently: system design + distributed systems
+<br>
 
-## recent
-→ building scalable web apps  
-→ contributing to oss projects  
-→ exploring cloud architecture patterns  
+<div align="center">
 
-## connect
-[email](mailto:your.email@example.com) / [linkedin](https://linkedin.com/in/yourprofile) / [twitter](https://twitter.com/yourhandle)
+### tech preferences
 
+**frontend** → typescript, react, next.js  
+**backend** → node.js, python, go  
+**cloud** → aws, docker, kubernetes  
+**database** → postgresql, mongodb, redis  
+
+</div>
+
+<br>
+
+<div align="center">
+
+---
+
+**let's build something together**
+
+[email](mailto:your.email@example.com) × [linkedin](https://linkedin.com/in/yourprofile) × [github](https://github.com/yourusername)
+
+</div>
+
+<br>
+
+<div align="center">
+
+```bash
+$ git commit -m "always learning, always building"
 ```
-$ whoami
-> developer who thinks in systems
-```
+
+</div>
