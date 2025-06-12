@@ -1,6 +1,6 @@
 <div align="center">
 
-# `Yssith Rashan`
+# `Yasith Rashan`
 
 <sub>**software architect** • **systems thinker** • **code craftsman**</sub>
 
