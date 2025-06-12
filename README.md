@@ -1,131 +1,47 @@
-<div align="center">
+# Yasith Rashan 👨‍💻
 
-# Yasith Rashan
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasith-rashan-a44b54295)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yxsiya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.yasithrashan.online/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasith.20222071@iit.ac.lk)
 
-<sub>**distributed systems engineer** | **computational thinking** | **sri lanka**</sub>
+## About Me
 
-</div>
+I'm a Computer Science student at the University of Westminster, specializing in Software Engineering. Passionate about creating innovative solutions using modern technologies, I have experience with Java, React, Node.js, and Spring Boot. My expertise spans both front-end and back-end development, and I'm committed to building impactful applications that solve real-world problems.
 
-```rust
-struct Engineer {
-    identity: Identity,
-    expertise: TechStack,
-    current_state: WorkingOn,
-}
+## 🛠 Tech Stack
 
-impl Engineer for Yasith {
-    fn new() -> Self {
-        Self {
-            identity: Identity {
-                location: "colombo",
-                education: "computer_science_westminster",
-                philosophy: "simplicity_scales",
-            },
-            expertise: TechStack {
-                systems: vec!["typescript", "rust", "go", "python"],
-                platforms: vec!["kubernetes", "aws_lambda", "cloudflare_workers"],
-                databases: vec!["postgresql", "redis", "clickhouse"],
-                protocols: vec!["grpc", "graphql", "websockets"],
-            },
-            current_state: WorkingOn {
-                focus: "event_driven_architectures",
-                research: "consensus_algorithms", 
-                side_projects: "developer_tooling",
-            }
-        }
-    }
-}
-```
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Ballerina](https://img.shields.io/badge/Ballerina-5288D4?style=for-the-badge&logo=ballerina&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<br>
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<div align="center">
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## active_projects
-
-</div>
-
-```yaml
-production_systems:
-  - high_throughput_api_gateway: "processing 1M+ requests/day"
-  - realtime_collaboration_platform: "websocket infrastructure"
-  - distributed_cache_layer: "sub-millisecond response times"
-
-open_source_contributions:
-  - react_performance_library: "bundle size optimization"
-  - cli_development_tools: "developer experience improvements"
-  - system_monitoring_dashboard: "observability patterns"
-
-research_interests:
-  - consensus_protocols: "raft implementation studies"
-  - wasm_runtime_optimization: "performance benchmarking"
-  - distributed_tracing: "microservices observability"
-```
-
-<br>
-
-<div align="center">
-
-## technical_philosophy
-
-</div>
-
-<div align="center">
-
-**measure_twice_code_once** • **optimize_for_readability** • **fail_fast_recover_faster**
-
-</div>
-
-```haskell
-type SystemDesign = Simplicity -> Scalability -> Reliability -> Success
-```
-
-<br>
-
-<div align="center">
-
-## currently_reading
-
-</div>
-
-<div align="center">
-
-**designing_data_intensive_applications** | **building_microservices** | **site_reliability_engineering**
-
-</div>
-
-<br>
-
-<div align="center">
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
-## networking_protocols
-
-</div>
-
 <div align="center">
-
-</div>
-
-<br>
-
-<div align="center">
-
-```sql
-SELECT * FROM opportunities 
-WHERE challenge_level = 'high' 
-  AND team_culture = 'collaborative'
-  AND technology_stack IN ('modern', 'cutting_edge')
-LIMIT 1;
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>**compiled_with_intention** • **deployed_with_confidence** • **monitored_with_precision**</sub>
-
+  <i>⚡ Always learning, always building, always improving ⚡</i>
 </div>
