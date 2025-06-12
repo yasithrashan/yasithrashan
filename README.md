@@ -1,14 +1,67 @@
-# 👨‍💻 Yasith Rashan — Architecting Code, Engineering Impact
+<div align="center">
 
-## About Me
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey, I'm Yasith
 
-**Software Engineer** | **Computer Science Student @ University of Westminster**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
 
-Currently learning and building scalable applications with modern technologies.
+**Building scalable applications** • **University of Westminster CS Student**
+
+---
+
+## 🚀 Current Mission
+```javascript
+const yasith = {
+    location: "Sri Lanka 🇱🇰",
+    education: "Computer Science @ Westminster",
+    focus: ["Full-Stack Development", "System Architecture", "Clean Code"],
+    currentlyLearning: "Advanced React Patterns & Cloud Architecture",
+    funFact: "I debug code faster with coffee ☕"
+};
+```
+
+## 🛠️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,git,docker,mongodb,mysql" />
+</p>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+## 🎯 What's Next?
+- 🔥 Building innovative web applications
+- 📈 Contributing to open source projects  
+- 🎓 Mastering computer science fundamentals
+- 🤝 Collaborating on exciting projects
 
 ---
 
 <div align="center">
-  <h3>🚀 "Building the future, one line of code at a time" 🚀</h3>
-  <p>💡 Open to collaboration and exciting opportunities! 💡</p>
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+### 💬 Let's Connect & Build Something Amazing!
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
+</p>
+
 </div>
