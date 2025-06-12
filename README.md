@@ -2,9 +2,13 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey, I'm Yasith
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Computer+Science+Student;Problem+Solver;Code+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+<h2 style="font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 300; color: #36BCF7; letter-spacing: 1px;">
+  Software Engineer • CS @ Westminster
+</h2>
 
-**Building scalable applications** • **University of Westminster CS Student**
+<p style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 16px; color: #7c8591; font-weight: 400; margin: 20px 0;">
+  Crafting elegant solutions through clean code
+</p>
 
 ---
 
@@ -23,6 +27,41 @@ const yasith = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,git,docker,mongodb,mysql" />
 </p>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+## 🎯 What's Next?
+- 🔥 Building scalable software solutions
+- 📈 Contributing to open source projects  
+- 🎓 Mastering computer science fundamentals
+- 🤝 Collaborating on exciting projects
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+### 💬 Let's Connect & Build Something Amazing!
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 <p align="center">
