@@ -22,7 +22,7 @@ Currently learning and building scalable applications with modern technologies.
 
 ### Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
 </p>
 
 ### DevOps & Tools
