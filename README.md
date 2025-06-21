@@ -2,7 +2,7 @@
 
 ## About Me
 
-**Software Engineer | Computer Science Student @ University of Westminster**
+**Software Engineering Intern | Computer Science Student @ University of Westminster**
 
 Currently learning and building scalable applications with modern technologies.
 
