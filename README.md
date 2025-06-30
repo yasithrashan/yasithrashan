@@ -23,8 +23,6 @@
 
 <br><br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasithrashan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=9D4EDD&langs_count=10&exclude_repo=repo1,repo2" alt="Top Languages" />
-
 </div>
 
 ---
