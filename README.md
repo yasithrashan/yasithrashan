@@ -1,5 +1,5 @@
 <div width="100%" align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yasithrashan&show_icons=true&hide_border=true&no-bg=true&card_width=320&theme=graywhite" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yasithrashan&show_icons=true&hide_border=true&no-bg=true&card_width=320&theme=light" />
   <img height=200 align="center" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=yasithrashan&hide_border=true&no-bg=true&card_width=400" />
 </div>
 
