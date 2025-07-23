@@ -9,6 +9,12 @@
   </picture>
 </div>
 <div width="100%" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yasithrashan&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&card_width=400">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasithrashan&layout=compact&hide_border=true&no-bg=true&card_width=400&theme=light" />
+  </picture>
+</div>
+<div width="100%" align="center">
   <h2>🏆 Yasith's Trophies</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=yasithrashan&column=5&theme=onestar&no-frame=true&no-bg=true&margin-w=4">
